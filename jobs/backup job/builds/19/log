@@ -1,9 +1,0 @@
-Started by timer
-Running as SYSTEM
-Building in workspace /var/jenkins_home/workspace/backup job
-[backup job] $ /bin/bash /tmp/jenkins8153744393293989408.sh
-[master afed102] Automated Jenkins commit
- 2 files changed, 2 insertions(+), 2 deletions(-)
-Warning: Permanently added the RSA host key for IP address '140.82.118.4' to the list of known hosts.
-Branch 'master' set up to track remote branch 'master' from 'origin'.
-Finished: SUCCESS
