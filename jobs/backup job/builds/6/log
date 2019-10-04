@@ -1,0 +1,17 @@
+Started by user [8mha:////4JLWuCZk2oX/QOAWULVFqjrsUOnF4J1xhSoX8WnI/QZUAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzJEgZ5/dLi1CL94szc/LzKxDy9xLy8RIeCzOTixKISoBG5AJQmb5zUAAAA[0msimonyan.anna@picsart.com
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/backup job
+[backup job] $ /bin/bash /tmp/jenkins1398225869184721439.sh
+fatal: pathspec 'ansible/*' did not match any files
+[master (root-commit) 0647202] Automated Jenkins commit
+ 3 files changed, 186 insertions(+)
+ create mode 100644 users/annsimonyan_4874480693743235985/config.xml
+ create mode 100644 users/geghamsimonyan_7048458445864344672/config.xml
+ create mode 100644 users/simonyanannapi_4746390954646142156/config.xml
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,30 @@
+Started by user [8mha:////4JLWuCZk2oX/QOAWULVFqjrsUOnF4J1xhSoX8WnI/QZUAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzJEgZ5/dLi1CL94szc/LzKxDy9xLy8RIeCzOTixKISoBG5AJQmb5zUAAAA[0msimonyan.anna@picsart.com
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/backup job
+[backup job] $ /bin/bash /tmp/jenkins7717539313579082664.sh
+[master 6e35d29] Automated Jenkins commit
+ 17 files changed, 307 insertions(+)
+ create mode 100644 config.xml
+ create mode 100644 hudson.model.UpdateCenter.xml
+ create mode 100644 hudson.plugins.emailext.ExtendedEmailPublisher.xml
+ create mode 100644 hudson.plugins.git.GitTool.xml
+ create mode 100644 jenkins.model.DownloadSettings.xml
+ create mode 100644 jenkins.model.JenkinsLocationConfiguration.xml
+ create mode 100644 jenkins.security.QueueItemAuthenticatorConfiguration.xml
+ create mode 100644 jenkins.security.UpdateSiteWarningsConfiguration.xml
+ create mode 100644 jenkins.security.apitoken.ApiTokenPropertyConfiguration.xml
+ create mode 100644 jenkins.telemetry.Correlator.xml
+ create mode 100644 jobs/backup job/config.xml
+ create mode 100644 nodeMonitors.xml
+ create mode 100644 queue.xml
+ create mode 100644 saml-idp-metadata.xml
+ create mode 100644 saml-jenkins-keystore.xml
+ create mode 100644 saml-sp-metadata.xml
+ create mode 100644 userContent/readme.txt
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

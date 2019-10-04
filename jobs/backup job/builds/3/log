@@ -1,0 +1,21 @@
+Started by user [8mha:////4JLWuCZk2oX/QOAWULVFqjrsUOnF4J1xhSoX8WnI/QZUAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzJEgZ5/dLi1CL94szc/LzKxDy9xLy8RIeCzOTixKISoBG5AJQmb5zUAAAA[0msimonyan.anna@picsart.com
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/backup job
+[backup job] $ /bin/bash /tmp/jenkins4325452125171208636.sh
+fatal: pathspec 'ansible/*' did not match any files
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@b2193dff8982.(none)')
+error: src refspec master does not match any.
+error: failed to push some refs to 'git@github.com:simonyan-anna/backuprepo'
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

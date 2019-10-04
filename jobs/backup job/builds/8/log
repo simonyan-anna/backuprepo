@@ -1,0 +1,14 @@
+Started by user [8mha:////4JLWuCZk2oX/QOAWULVFqjrsUOnF4J1xhSoX8WnI/QZUAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzJEgZ5/dLi1CL94szc/LzKxDy9xLy8RIeCzOTixKISoBG5AJQmb5zUAAAA[0msimonyan.anna@picsart.com
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/backup job
+[backup job] $ /bin/bash /tmp/jenkins6174128125232333175.sh
+fatal: pathspec 'ansible/*' did not match any files
+[master 74c6700] Automated Jenkins commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,8 @@
+Started by user [8mha:////4JLWuCZk2oX/QOAWULVFqjrsUOnF4J1xhSoX8WnI/QZUAAAAqh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzJEgZ5/dLi1CL94szc/LzKxDy9xLy8RIeCzOTixKISoBG5AJQmb5zUAAAA[0msimonyan.anna@picsart.com
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/backup job
+[backup job] $ /bin/bash /tmp/jenkins1140544977336165486.sh
+[master c89d264] Automated Jenkins commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+Finished: SUCCESS
