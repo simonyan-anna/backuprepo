@@ -56,8 +56,8 @@
     </jenkins.security.LastGrantedAuthoritiesProperty>
     <org.jenkinsci.plugins.saml.user.LoginDetailsProperty plugin="saml@1.1.3">
       <createTimestamp>1570104479321</createTimestamp>
-      <lastLoginTimestamp>1570174844084</lastLoginTimestamp>
-      <loginCount>15</loginCount>
+      <lastLoginTimestamp>1570177686155</lastLoginTimestamp>
+      <loginCount>16</loginCount>
     </org.jenkinsci.plugins.saml.user.LoginDetailsProperty>
   </properties>
 </user>
